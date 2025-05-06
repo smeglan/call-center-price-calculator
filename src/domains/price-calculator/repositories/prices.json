@@ -1,0 +1,176 @@
+{
+    "RESIDENCIAL": [
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNOSTICO 1 ARTEFACTO",
+            "FACTURA": 79000,
+            "10 CUOTAS": 7900
+        },
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNÓSTICO 2 ARTEFACTO",
+            "FACTURA": 118000,
+            "10 CUOTAS": 11800
+        },
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNÓSTICO 3 ARTEFACTO",
+            "FACTURA": 157000,
+            "10 CUOTAS": 15700
+        },
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNÓSTICO 4 ARTEFACTOS",
+            "FACTURA": 196000,
+            "10 CUOTAS": 19600
+        },
+        {
+            "PROCEDIMIENTO": "COTIZACIÓN",
+            "FACTURA": 70000,
+            "10 CUOTAS": 7000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA DE 2 PUESTOS",
+            "FACTURA": 88000,
+            "10 CUOTAS": 8800
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA DE 3, 4, 5 Y 6 PUESTOS",
+            "FACTURA": 165000,
+            "10 CUOTAS": 16500
+        },
+        {
+            "PROCEDIMIENTO": "CALENTADOR",
+            "FACTURA": 175000,
+            "10 CUOTAS": 17500
+        },
+        {
+            "PROCEDIMIENTO": "SECADORA",
+            "FACTURA": 175000,
+            "10 CUOTAS": 17500
+        },
+        {
+            "PROCEDIMIENTO": "HORNO EMPOTRADO USO DOMÉSTICO",
+            "FACTURA": 165000,
+            "10 CUOTAS": 16500
+        },
+        {
+            "PROCEDIMIENTO": "CHIMENEA",
+            "FACTURA": 175000,
+            "10 CUOTAS": 17500
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA + ESTUFA",
+            "FACTURA": 330000,
+            "10 CUOTAS": 33000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA 2 PUESTOS + CALENTADOR",
+            "FACTURA": 263000,
+            "10 CUOTAS": 26300
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA+ESTUFA+ESTUFA",
+            "FACTURA": 495000,
+            "10 CUOTAS": 49500
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA+CALENTADOR \/ ESTUFA+SECADORA \/ ESTUFA+CHIMENEA",
+            "FACTURA": 340000,
+            "10 CUOTAS": 34000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA+CALENTADOR+HORNO",
+            "FACTURA": 505000,
+            "10 CUOTAS": 50500
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA+CALENTADOR+SECADORA\/ESTUFA+CALENTADOR+CHIMENEA",
+            "FACTURA": 515000,
+            "10 CUOTAS": 51500
+        },
+        {
+            "PROCEDIMIENTO": "CALENTADOR+CHIMENEA+SECADORA",
+            "FACTURA": 525000,
+            "10 CUOTAS": 52500
+        },
+        {
+            "PROCEDIMIENTO": "4 ARTEFACTOS",
+            "FACTURA": 690000,
+            "10 CUOTAS": 69000
+        },
+        {
+            "PROCEDIMIENTO": "5 ARTEFACTOS",
+            "FACTURA": 855000,
+            "10 CUOTAS": 85500
+        }
+    ],
+    "COMERCIAL": [
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNÓSTICO 1 ARTEFACTO",
+            "FACTURA": 95000,
+            "10 CUOTAS": 9500
+        },
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNÓSTICO 2 ARTEFACTOS",
+            "FACTURA": 135000,
+            "10 CUOTAS": 13500
+        },
+        {
+            "PROCEDIMIENTO": "ASISTENCIA TÉCNICA Y DIAGNÓSTICO 3 ARTEFACTOS O MÁS",
+            "FACTURA": 180000,
+            "10 CUOTAS": 18000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA INDUSTRIAL 1 PUESTO - MARMITA",
+            "FACTURA": 190000,
+            "10 CUOTAS": 19000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA INDUSTRIAL 2 Y 3 PUESTOS",
+            "FACTURA": 280000,
+            "10 CUOTAS": 28000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA INDUSTRIAL 4",
+            "FACTURA": 360000,
+            "10 CUOTAS": 36000
+        },
+        {
+            "PROCEDIMIENTO": "ESTUFA INDUSTRIAL 5 Y 6 PUESTO Y EN ADELANTE",
+            "FACTURA": 450000,
+            "10 CUOTAS": 45000
+        },
+        {
+            "PROCEDIMIENTO": "GREGA-BBQ-WOK-PLANCHA-SALAMANDRA-GRATINADORA",
+            "FACTURA": 220000,
+            "10 CUOTAS": 22000
+        },
+        {
+            "PROCEDIMIENTO": "CUARTO DE CRECIMIENTO",
+            "FACTURA": 450000,
+            "10 CUOTAS": 45000
+        },
+        {
+            "PROCEDIMIENTO": "CALDERA DE LAVANDERÍA",
+            "FACTURA": 450000,
+            "10 CUOTAS": 45000
+        },
+        {
+            "PROCEDIMIENTO": "FREIDORA",
+            "FACTURA": 280000,
+            "10 CUOTAS": 28000
+        },
+        {
+            "PROCEDIMIENTO": "HORNO 2 BANDEJAS",
+            "FACTURA": 220000,
+            "10 CUOTAS": 22000
+        },
+        {
+            "PROCEDIMIENTO": "HORNO 6 BANDEJAS",
+            "FACTURA": 380000,
+            "10 CUOTAS": 38000
+        },
+        {
+            "PROCEDIMIENTO": "HORNO 10 BANDEJAS",
+            "FACTURA": 470000,
+            "10 CUOTAS": 47000
+        }
+    ]
+}
